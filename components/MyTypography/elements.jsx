@@ -23,4 +23,4 @@ StyledSectionBelowHeader.displayName = 'StyledSectionBelowHeader';
 export default {
     StyledSectionHeader,
     StyledSectionBelowHeader
-}
+};
